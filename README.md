@@ -1,4 +1,4 @@
-[View Project here](ashley-fetchweather.netlify.app) 
+
 
 # Getting Started with Create React App
 
